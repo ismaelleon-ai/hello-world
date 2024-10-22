@@ -1,9 +1,7 @@
 package com.campusdual.abstactclass;
 
 public class AngoraCat extends Cat {
-    public AngoraCat(String[] args) {
-        super(animalName);
-
+    public AngoraCat() {
     }
 
     @Override

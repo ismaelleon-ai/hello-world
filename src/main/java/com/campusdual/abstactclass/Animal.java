@@ -6,7 +6,6 @@ public abstract class Animal {
     public String getAnimalName() {
         return animalName;
     }
-
     public void setAnimalName(String animalName) {
         this.animalName = animalName;
     }
