@@ -1,6 +1,8 @@
 package com.campusdual.polymorf;
 
 public class Laptop extends Device implements IChargeable{
+    //La clase padre es Device, por eso se hace extends de ella
+
     public Laptop(String brand, String model) {
         super(brand, model);
     }
