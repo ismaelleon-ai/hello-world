@@ -59,8 +59,5 @@ public class BasicArrays {
             }
             System.out.println(); //Para que meta otras líneas al final del loop
         }
-
-
-
     }
 }
